@@ -18,17 +18,17 @@ Hi，现在是 2021 年的第一个月，这是我写给你的第一封信，是
 
 过去 30 天习惯养成情况：
 
-| 习惯                  | 次数 | 备注                                       |
-| --------------------- | ---- | ------------------------------------------ |
-| 8 点起床              | 1    |                                            |
-| 23 点 30 睡觉         | 4    |                                            |
-| 英语阅读 1h           | 15   | 产出[两篇阅读笔记](/docs)                           |
-| Leetcode 1h           | 12   | 达成「beats 100% submissions」一次，如下图 |
-| 自学 1h               | 7    | NestJS 文档阅读                            |
-| 读书 > 30m            | 10   |                                            |
-| 每日手机使用时长 < 2h | 14   |                                            |
-| 运动 > 1h             | 3    |                                            |
-| 练习吉他 > 1h         | 7    |                                            |
+| 习惯                  | 次数 | 备注                                                         |
+| --------------------- | ---- | ------------------------------------------------------------ |
+| 8 点起床              | 1    |                                                              |
+| 23 点 30 睡觉         | 4    |                                                              |
+| 英语阅读 1h           | 15   | [Preparing for a Tech Talk](/docs/English-Learning/doc1)<br />[30 Days After Quitting My Job](/docs/English-Learning/doc2)<br />[The Day You Decided to Take the Leap](/docs/English-Learning/doc3) |
+| LeetCode 1h           | 12   | 达成「beats 100% submissions」一次，如下图                   |
+| 自学 1h               | 7    | NestJS 文档阅读                                              |
+| 读书 > 30m            | 10   |                                                              |
+| 每日手机使用时长 < 2h | 14   |                                                              |
+| 运动 > 1h             | 3    |                                                              |
+| 练习吉他 > 1h         | 7    |                                                              |
 
 ![达成「beats 100% submissions」一次](/Letter.assets/leetcode-100.png)
 
