@@ -3,11 +3,11 @@ module.exports = {
     // Docusaurus: ['doc1', 'doc2', 'doc3'],
     // Features: ['mdx'],
     Introduction: [
-      'Introduction/doc1'
+      'Introduction/1'
     ],
     'English Learning': [
-      'English-Learning/note2',
-      'English-Learning/note1'
+      'English-Learning/2',
+      'English-Learning/1'
     ]
   },
 };
