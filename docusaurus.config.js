@@ -1,6 +1,6 @@
 module.exports = {
   title: 'AGSG',
-  tagline: 'The tagline of my site',
+  tagline: '一个还没弄好的博客，不过也可以将就看',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
