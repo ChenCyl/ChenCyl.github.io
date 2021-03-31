@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{86:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u82d7\u5934","permalink":"/blog/2021/03/31/\u82d7\u5934"},{"title":"\u8fc7\u5e74","permalink":"/blog/2021/02/28/\u8fc7\u5e74"},{"title":"Take the Leap!","permalink":"/blog/2021/01/31/Take-the-leap"}]}')}}]);
