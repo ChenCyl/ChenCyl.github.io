@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'ChenCyl.github.io',
+  title: 'AGSG',
   tagline: '一个还没弄好的博客，不过也可以将就看',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -7,7 +7,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ChenCyl', // Usually your GitHub org/user name.
-  projectName: 'AGSG', // Usually your repo name.
+  projectName: 'ChenCyl.github.io', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'AGSG',
